@@ -11,7 +11,7 @@ install.packages ("dplyr")
 install.packages ("tm")
 install.packages ("wordcloud")
 install.packages ("ggplot2")
- ***** testar aquelas outras bibliotecas tipo library(RColorBrewer) library(cluster)  library(fpc) 
+
 
 
 
