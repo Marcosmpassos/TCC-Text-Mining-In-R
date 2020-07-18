@@ -1,1 +1,1 @@
-# TCC-Text-Minig
+# TCC-Text-Mining in R
